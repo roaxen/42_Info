@@ -6,7 +6,7 @@ Con una metodología peer-to-peer y una duración media de tres años, está abi
 ## Proyectos
 
 # 📚 Libft 
-► [Project description and code](https://github.com/roaxen/42_Libft)
+► [Project description and code](https://github.com/roaxen/42_Libft)  Private Proyect
 <br>
 <br>
 # 📝 Printf 
