@@ -9,11 +9,11 @@ Con una metodología peer-to-peer y una duración media de tres años, está abi
 ► [Project description and code](https://github.com/roaxen/42_Libft)
 <br>
 <br>
-# 📝 Printf [![gemartin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2470176)](https://github.com/JaeSeoKim/badge42)
+# 📝 Printf 
 ► Private Proyect
 <br>
 <br>
-# 📖 Get_Next_Line [![gemartin's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2484886)](https://github.com/JaeSeoKim/badge42)
+# 📖 Get_Next_Line 
 ► Private Proyect
 <br>
 <br>
